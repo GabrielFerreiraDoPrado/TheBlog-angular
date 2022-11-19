@@ -6,3 +6,7 @@
     color: white;
     font-family: "segoe UI";
 }
+
+a {
+    text-decoration: none;
+}
