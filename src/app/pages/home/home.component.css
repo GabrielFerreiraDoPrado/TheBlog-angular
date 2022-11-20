@@ -11,3 +11,7 @@ header {
     display: flex;
     justify-content: center;
 }
+
+.container__articles__hiddenSeparator {
+    border: none;
+}
