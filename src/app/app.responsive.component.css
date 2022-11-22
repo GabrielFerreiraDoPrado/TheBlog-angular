@@ -1,0 +1,23 @@
+@media screen and (min-width: 930px) and (max-width: 1160px) {
+    header {
+        width: 1163px;
+    }
+}
+
+@media screen and (max-width: 930px) {
+    header {
+        width: 927px;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    header {
+        width: 599px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    header {
+        width: 440px;
+    }
+}

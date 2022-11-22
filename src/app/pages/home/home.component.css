@@ -6,12 +6,6 @@
     justify-content: center;
 }
 
-header {
-    margin-top: 15px;
-    display: flex;
-    justify-content: center;
-}
-
 .container__articles__hiddenSeparator {
     border: none;
 }
