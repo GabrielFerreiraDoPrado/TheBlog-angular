@@ -1,23 +1,11 @@
-@media screen and (min-width: 930px) and (max-width: 1160px) {
-    header {
-        width: 1163px;
-    }
-}
 
-@media screen and (max-width: 930px) {
+@media screen and (max-width: 768px) {
     header {
-        width: 927px;
-    }
-}
+        margin-left: 3vw;
+        width: 94vw;
 
-@media screen and (max-width: 440px) {
-    header {
-        width: 599px;
-    }
-}
-
-@media screen and (max-width: 340px) {
-    header {
-        width: 440px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
