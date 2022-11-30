@@ -1,7 +1,6 @@
 .container__content {
-    border: 1px solid white;
     width: 96vw;
-    height: 100vh;
+    height: auto;
 
     margin-top: 1.4vw;
     margin-left: 2vw;
@@ -44,4 +43,6 @@
 
 .content__description > p {
     color: rgb(198, 197, 197);
+    margin-top: 2vw;
+    margin-bottom: 3vw;
 }

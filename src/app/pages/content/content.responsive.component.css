@@ -9,9 +9,11 @@
     .content__cover > img {
         width: 80vw;
     }
-    
+
     .content__title > h1 {
         margin-top: 2vw;
+
+        text-align: center;
         
         font-size: 6vw;
     }
@@ -19,5 +21,6 @@
     .content__description {
         margin-top: 3vw;
         font-size: 4vw;
+        text-align: justify;
     }
 }
