@@ -1,27 +1,44 @@
-# AngularBlog
+# The Blog with Angular
+![GitHub](https://img.shields.io/github/license/GabrielFerreiraDoPrado/TheBlog-angular) ![GitHub top language](https://img.shields.io/github/languages/top/GabrielFerreiraDoPrado/TheBlog-angular)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+# About the Project
 
-## Development server
+The Blog is a front-end Angular project developed during the Cloud Fullstack Bootcamp, made by [Digital Innovation One](https://www.dio.me/). There are several news cards on the main page, as well as other components, such as the title and the header containing links to my LinkedIn and GitHub profiles.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Objectives
+ 
+• Create a front-end project using Angular
 
-## Code scaffolding
+• Study about components
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+• Learn about routing
 
-## Build
+• Create dynamic components and pages
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+# Tools
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+• TypeScript
 
-## Running end-to-end tests
+• CSS
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+• HTML
 
-## Further help
+• Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+• Visual Studio Code
+
+
+<span>![Tools](https://github.com/GabrielFerreiraDoPrado/assets/blob/main/TheBlog-angular/tools.png)</span>
+
+# Home Page
+
+![Home](https://github.com/GabrielFerreiraDoPrado/assets/blob/main//TheBlog-angular/FrontPage.png)
+
+# Content Page
+
+![Content](https://github.com/GabrielFerreiraDoPrado/assets/blob/main//TheBlog-angular/ContentPage.png)
+
+# Author
+
+[My profile](https://www.linkedin.com/in/gabriel-ferreira-do-prado/) on LinkedIn
