@@ -9,9 +9,9 @@ The Blog is a front-end Angular project developed during the Cloud Fullstack Boo
  
 • Create a front-end project using Angular
 
-• Study about components
+• Study components
 
-• Learn about routing
+• Study page routing
 
 • Create dynamic components and pages
 
